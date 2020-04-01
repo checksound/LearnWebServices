@@ -43,11 +43,12 @@ Il WSDL, è un documento in formato XML, descritto come specifica del W3C, che p
 modo preciso l'interfaccia esposta dai Web Services.
 @snapend
 ---?gist=MassimoCappellano/d15675cbabf291c47705512e02581622&lang=xml&title=Esempio WSDL di un servizio per chiedere i valori di borsa di un'azione:
-
+@snap[west text-06]
 @[9-27](Types -- a container for data type definitions using some type system (such as XSD).)
 @[29-35](Message -- an abstract, typed definition of the data being communicated.)
 @[37-42](Operation -- an abstract description of an action supported by the service.)
-@[](e altri)
+@[ ](e altri)
+@snapend
 ---
 @snap[west text-06]
 Esempio Web Service SOAP:<br>
