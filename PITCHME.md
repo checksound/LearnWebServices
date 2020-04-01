@@ -3,10 +3,8 @@
 ---
 
 @snap[north-west]
-### Produttore/Consumatore
-Come facciamo a far si che due thread collaborino? <br>Ad esempio un thread, *Thread A*, produce qualcosa di cui il *Thread B* ha bisogno.<br><br> 
-Il *Thread A* è il produttore e il *Thread B* è il consumatore. <br><br> I due thread si devono coordinare: il consumatore deve aspettare che il produttore 
-abbia prodotto, prima di poter prelevare l'elemento.
+### I web services
+“A web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has an interface described in a machine-processable format “ (W3C, Web Services Glossary )
 @snapend
 ---
 @snap[west]
