@@ -50,9 +50,8 @@ modo preciso l'interfaccia esposta dai Web Services.
 @snapend
 ---
 
-Le parti specificate nel WSDL sono:
-
 @snap[north-west text-07]
+### Le parti specificate nel WSDL sono:
 * Types -- a container for data type definitions using some type system (such as XSD).
 * Message -- an abstract, typed definition of the data being communicated.
 * Operation -- an abstract description of an action supported by the service.
