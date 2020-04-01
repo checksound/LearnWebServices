@@ -2,10 +2,10 @@
 
 ---
 
-@snap[north-west]
+@snap[north-west text-07]
 ### I Web Services
 “A web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has an interface described in a machine-processable format “ (W3C, Web Services Glossary )
-
+<br><br>
 Parliamo quindi di:
 @ol[]
 1. servizio - offre un servizio specifico, ad esempio: servizio prenotazioni, dati geolocalizzazioni, ...;
