@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north-west text-07]
+@snap[north-west text-08]
 ### I Web Services
 “A web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has an interface described in a machine-processable format “ (W3C, Web Services Glossary )
 <br><br>
@@ -17,7 +17,11 @@ Parliamo quindi di:
 ---
 @snap[north-west]
 ![width=700](assets/img/intro_ws_roles.gif)
+
+WSD: web service descriptor, un formato processabile da un client che descrive l'interfaccia esposta.
 @snapend
+---
+
 ---
 @snap[west]
 Il *Thread A*, consumatore e *Thread B*, produttore, eseguono questo codice, dove *obj* è qualche oggetto:
