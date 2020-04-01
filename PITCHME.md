@@ -16,7 +16,7 @@ Parliamo quindi di:
 @snapend
 ---
 @snap[north-west text-07]
-![width=700](assets/img/RPC.PNG)
+![width=700](assets/img/rpc.png)
 <br>
 *WSD*: web service descriptor, un formato processabile da un client che descrive l'interfaccia esposta.
 @snapend
