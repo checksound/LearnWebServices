@@ -38,7 +38,7 @@ Esistono due modalità principali di Web Services:
 @snap[north-west text-05]
 ### SOAP
 
----?gist=MassimoCappellano/d15675cbabf291c47705512e02581622&lang=xml&title=Esempio WSDL di un servizio per chiedere i valori di borsa di un'azione:
+?gist=MassimoCappellano/d15675cbabf291c47705512e02581622&lang=xml&title=Esempio WSDL di un servizio per chiedere i valori di borsa di un'azione:
 
 @snapend
 ---
