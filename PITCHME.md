@@ -21,7 +21,7 @@ Parliamo quindi di:
 *WSD*: web service descriptor, un formato processabile da un client che descrive l'interfaccia esposta.
 @snapend
 ---
-@snap
+@snap[]
 Esistono due modalità principali di Web Services:
 @ul[]
 * SOAP - **S**imple **O**bject **A**ccess **P**rotocol;
