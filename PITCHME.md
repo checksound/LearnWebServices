@@ -15,7 +15,7 @@ Parliamo quindi di:
 
 @snapend
 ---
-@snap[north-west]
+@snap[north-west text-08]
 ![width=700](assets/img/intro_ws_roles.gif)
 
 WSD: web service descriptor, un formato processabile da un client che descrive l'interfaccia esposta.
