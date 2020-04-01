@@ -23,7 +23,7 @@ Parliamo quindi di:
 ---
 @snap[north-west]
 ### RPC - Remote Procedure Call
-![width=700](assets/img/rpc.png)
+![width=700](assets/img/RPC.PNG)
 <br>
 I Web Service, 'un altro modo per fare RPC'.
 @snapend
