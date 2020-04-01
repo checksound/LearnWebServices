@@ -1,10 +1,18 @@
-# I Web Service
+# I Web Services
 
 ---
 
 @snap[north-west]
-### I web services
+### I Web Services
 “A web service is a software system designed to support interoperable machine-to-machine interaction over a network. It has an interface described in a machine-processable format “ (W3C, Web Services Glossary )
+
+Parliamo quindi di:
+@ol[]
+1. servizio - offre un servizio specifico, ad esempio: servizio prenotazioni, dati geolocalizzazioni, ...;
+1. web - invocabile da web
+1. interfaccia - espone in modo rigoroso in un formato processabile da un client software i servizi che espone
+@olend
+
 @snapend
 ---
 @snap[west]
