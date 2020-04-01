@@ -9,10 +9,14 @@
 Parliamo quindi di:
 @ol[]
 1. servizio - offre un servizio specifico, ad esempio: servizio prenotazioni, dati geolocalizzazioni, ...;
-1. web - invocabile da web
-1. interfaccia - espone in modo rigoroso in un formato processabile da un client software i servizi che espone
+1. web - invocabile da web, utilizza i protocolli del web;
+1. interfaccia - espone in modo rigoroso in un formato processabile da un client software i servizi che espone;
 @olend
 
+@snapend
+---
+@snap[north-west]
+![width=700](assets/img/intro_ws_roles.png)
 @snapend
 ---
 @snap[west]
