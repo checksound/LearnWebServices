@@ -35,7 +35,7 @@ Esistono due modalità principali di Web Services:
 * REST - **RE**presentional **S**tate **T**ransfer;
 @snapend
 ---
-@snap[north-west text-08]
+@snap[west text-06]
 Esempio Web Service SOAP:<br>
 
 https://geoservices.tamu.edu/Services/Geocode/WebService/v04_01/Simple/SOAP/
