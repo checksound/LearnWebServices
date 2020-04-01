@@ -16,14 +16,14 @@ Parliamo quindi di:
 @snapend
 ---
 @snap[north-west text-07]
-![width=700](assets/img/rpc.png)
+![width=700](assets/img/intro_ws_roles.gif)
 <br>
 *WSD*: web service descriptor, un formato processabile da un client che descrive l'interfaccia esposta.
 @snapend
 ---
 @snap[north-west]
 ### RPC - Remote Procedure Call
-![width=700](assets/img/intro_ws_roles.gif)
+![width=700](assets/img/rpc.png)
 <br>
 I Web Service, 'un altro modo per fare RPC'.
 @snapend
