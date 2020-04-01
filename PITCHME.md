@@ -16,7 +16,7 @@ Parliamo quindi di:
 @snapend
 ---
 @snap[north-west]
-![width=700](assets/img/intro_ws_roles.png)
+![width=700](assets/img/intro_ws_roles.gif)
 @snapend
 ---
 @snap[west]
