@@ -39,6 +39,13 @@ Esistono due modalità principali di Web Services:
 Esempio Web Service SOAP:<br>
 
 https://geoservices.tamu.edu/Services/Geocode/WebService/v04_01/Simple/SOAP/
+<br>
+**API URL:**<br>
+https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx
+<br>
+**WSDL:**<br>
+https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx?WSDL
+
 @snapend
 ---
 @snap[west text-07]
