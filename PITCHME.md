@@ -47,8 +47,18 @@ modo preciso l'interfaccia esposta dai Web Services.
 @[9-27](Types -- a container for data type definitions using some type system (such as XSD).)
 @[29-35](Message -- an abstract, typed definition of the data being communicated.)
 @[37-42](Operation -- an abstract description of an action supported by the service.)
-@[ ](e altri)
 @snapend
+---
+Altre parti specificate nel WSDL sono:
+
+Types -- a container for data type definitions using some type system (such as XSD).
+Message -- an abstract, typed definition of the data being communicated.
+Operation -- an abstract description of an action supported by the service.
+Port Type -- an abstract set of operations supported by one or more endpoints.
+Binding -- a concrete protocol and data format specification for a particular port type.
+Port -- a single endpoint defined as a combination of a binding and a network address.
+Service -- a collection of related endpoints.
+
 ---
 @snap[west text-06]
 Esempio Web Service SOAP:<br>
