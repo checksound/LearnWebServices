@@ -35,11 +35,11 @@ Esistono due modalità principali di Web Services:
 * REST - **RE**presentional **S**tate **T**ransfer;
 @snapend
 ---
-
+@snap[west]
 Esempio Web Service SOAP:<br>
 
 https://geoservices.tamu.edu/Services/Geocode/WebService/v04_01/Simple/SOAP/
-
+@snapend
 ---
 @snap[west]
 Il *Thread A*, consumatore e *Thread B*, produttore, eseguono questo codice, dove *obj* è qualche oggetto:
