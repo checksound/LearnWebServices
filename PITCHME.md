@@ -53,13 +53,13 @@ modo preciso l'interfaccia esposta dai Web Services.
 @snap[north-west text-07]
 ### Le parti specificate nel WSDL sono:
 @ul
-Types -- a container for data type definitions using some type system (such as XSD).
-Message -- an abstract, typed definition of the data being communicated.
-Operation -- an abstract description of an action supported by the service.
-Port Type -- an abstract set of operations supported by one or more endpoints.
-Binding -- a concrete protocol and data format specification for a particular port type.
-Port -- a single endpoint defined as a combination of a binding and a network address.
-Service -- a collection of related endpoints.
+* Types -- a container for data type definitions using some type system (such as XSD).
+* Message -- an abstract, typed definition of the data being communicated.
+* Operation -- an abstract description of an action supported by the service.
+* Port Type -- an abstract set of operations supported by one or more endpoints.
+* Binding -- a concrete protocol and data format specification for a particular port type.
+* Port -- a single endpoint defined as a combination of a binding and a network address.
+* Service -- a collection of related endpoints.
 @ulend
 @snapend
 
