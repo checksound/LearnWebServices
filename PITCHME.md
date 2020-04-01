@@ -47,7 +47,7 @@ modo preciso l'interfaccia esposta dai Web Services.
 @[9-27](Types -- a container for data type definitions using some type system (such as XSD).)
 @[29-35](Message -- an abstract, typed definition of the data being communicated.)
 @[37-42](Operation -- an abstract description of an action supported by the service.)
-@(e altri)
+@[](e altri)
 ---
 @snap[west text-06]
 Esempio Web Service SOAP:<br>
