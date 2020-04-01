@@ -52,7 +52,7 @@ modo preciso l'interfaccia esposta dai Web Services.
 
 @snap[north-west text-07]
 ### Le parti specificate nel WSDL sono:
-@ul
+@ul[](false)
 * Types -- a container for data type definitions using some type system (such as XSD).
 * Message -- an abstract, typed definition of the data being communicated.
 * Operation -- an abstract description of an action supported by the service.
