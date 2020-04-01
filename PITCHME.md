@@ -35,6 +35,13 @@ Esistono due modalità principali di Web Services:
 * REST - **RE**presentional **S**tate **T**ransfer;
 @snapend
 ---
+@snap[north-west text-07]
+### SOAP
+
+---?gist=MassimoCappellano/d15675cbabf291c47705512e02581622&lang=xm&title=Esempio WSDL di un servizio per chiedere i valori di borsa di un'azione:
+
+@snapend
+---
 @snap[west text-06]
 Esempio Web Service SOAP:<br>
 
