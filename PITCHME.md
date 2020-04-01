@@ -41,7 +41,7 @@ Esempio Web Service SOAP:<br>
 https://geoservices.tamu.edu/Services/Geocode/WebService/v04_01/Simple/SOAP/
 @snapend
 ---
-@snap[west]
+@snap[west text-07]
 Il *Thread A*, consumatore e *Thread B*, produttore, eseguono questo codice, dove *obj* è qualche oggetto:
 
 ```java
