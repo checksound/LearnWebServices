@@ -35,7 +35,7 @@ Esistono due modalità principali di Web Services:
 * REST - **RE**presentional **S**tate **T**ransfer;
 @snapend
 ---
-@snap[north-west text-05]
+@snap[north-west]
 ### SOAP
 Vediano tremite un esempio di capire la funzione del WSDL, peatendo dall'esempio di un servizio che ritorna i valori delle azioni (Stocks).
 @snapend
