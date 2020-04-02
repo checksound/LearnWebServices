@@ -71,7 +71,7 @@ XML è un linguaggio di markup che permette di descrivere delle strutture dati c
 ![](assets/img/SOAPSimpleO1.png)
 @snapend
 
----?gist=MassimoCappellano/4803465f006725a9044a78f0e7a066b7&title=Servizio che chiede i valori di un'azione in questa richiesta `MOT`.
+---?gist=MassimoCappellano/4803465f006725a9044a78f0e7a066b7&title=Servizio che chiede i valori di un'azione
 ### SOAP Request
 
 ---
