@@ -101,7 +101,9 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 
 La sigla REST, Representional State Transfer, sembra alquanto criptica.  
 <br>
-Esso semplicemente vuol dire che il server ha una risorsa e il client può chiedere una rappresentazione (descrizione) dello 'stato' della risorsa. Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record. 
+Esso semplicemente vuol dire che il server ha una risorsa e il client può chiedere una rappresentazione (descrizione) dello 'stato' della risorsa. 
+<br>
+Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record. 
 @snapend
 
 
