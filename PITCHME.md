@@ -90,7 +90,7 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 - **Stateless**: Nessuno stato client è memorizzato sul server. Tutte le informazioni necessarie per eseguire le operazioni sono contenute nelle richieste;
 - **Cacheable**: I servizi Web RESTful devono fornire funzionalità di memorizzazione nella cache. I server possono indicare come e per quanto tempo memorizzare nella cache le risposte. I client possono utilizzare le risposte memorizzate nella cache invece di contattare il server. Poiché REST in genere utilizza HTTP, eredita tutte le proprietà di memorizzazione nella cache offerte da HTTP; 
 - **Interfaccia uniforme**: le risorse che il server espone devono essere identificate da URI 
-Sistema a strati: Data l’architettura c/s, i client non sono consapevoli del server specifico con cui interagiscono. Questa proprietà consente l'introduzione di server intermedi che possono, ad esempio, gestire la sicurezza o offrire funzionalità di bilanciamento del carico; 
+- **Sistema a strati**: Data l’architettura c/s, i client non sono consapevoli del server specifico con cui interagiscono. Questa proprietà consente l'introduzione di server intermedi che possono, ad esempio, gestire la sicurezza o offrire funzionalità di bilanciamento del carico; 
 - **Codice su richiesta (opzionale)**: Anche se fa parte dell'architettura REST, questo principio è facoltativo. I server possono estendere le funzionalità dei client trasferendo codice eseguibile;
 @ulend
 @snapend
