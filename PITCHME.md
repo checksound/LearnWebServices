@@ -66,6 +66,13 @@ XML è un linguaggio di markup che permette di descrivere delle strutture dati c
 @snapend
 
 ---
+@snap[north-west]
+### SOAP Message
+![](assets/img/SOAPSimple01.png)
+@snapend
+
+---
+
 @snap[west text-06]
 Esempio Web Service SOAP:<br>
 
