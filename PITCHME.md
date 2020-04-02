@@ -75,8 +75,9 @@ XML è un linguaggio di markup che permette di descrivere delle strutture dati c
 
 @snap[north-west text-07]
 
-### Esempio SOAP Request
+### SOAP Request
 
+Servizio che chiede i valori di un'azione in questa richiesta `MOT`.
 ```
 POST /StockQuote HTTP/1.1
 Host: www.stockquoteserver.com
@@ -94,6 +95,28 @@ SOAPAction: "Some-URI"
       <symbol>MOT</symbol>
     </m:GetLastTradePrice>     
    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+```
+@snapend
+---
+@snap[north-west]
+### SOAP Response
+
+Messaggio di ritorno alla richiesta del client con in valore dell'azione.
+
+```
+HTTP/1.1 200 OK Content-Type: text/xml; charset="utf-8"
+Content-Length: nnnn
+
+<SOAP-ENV:Envelope
+ xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+ SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/>   
+ <SOAP-ENV:Body>
+  <m:GetLastTradePriceResponse
+   xmlns:m="Some-URI">
+   <Price>14.5</Price>
+  </m:GetLastTradePriceResponse>
+ </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>
 ```
 @snapend
