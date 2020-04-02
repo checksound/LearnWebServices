@@ -84,7 +84,7 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 **REST** (REpresentational State Transfer) definendolo come uno stile architetturale per la progettazione e la creazione di servizi Web, in altre parole REST rappresenta un insieme di regole che definiscono come scambiare risorse in un sistema distribuito
 
 ---
-@snap[north-west text-07]
+@snap[north-west text-06]
 @ul[](false)
 - **Client-server**: la comunicazione tra le applicazioni segue il paradigma c/s. Questo disaccoppiamento garantisce che, purché sia stata concordata un'interfaccia, lo sviluppo di client e server può essere eseguito in modo indipendente; 
 - **Stateless**: Nessuno stato client è memorizzato sul server. Tutte le informazioni necessarie per eseguire le operazioni sono contenute nelle richieste;
