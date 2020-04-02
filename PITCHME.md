@@ -121,7 +121,7 @@ Quindi "REpresentional State Transfer" semplicemente significa che stiamo trasfe
 
 @snapend
 ---
-@snap[north-west text-06]
+@snap[north-west text-07]
 ### Regole per servizi REST (detti RESTFul)
 @ul[](false)
 - **Client-server**: la comunicazione tra le applicazioni segue il paradigma c/s. Questo disaccoppiamento garantisce che, purché sia stata concordata un'interfaccia, lo sviluppo di client e server può essere eseguito in modo indipendente; 
