@@ -79,6 +79,13 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 ---?gist=MassimoCappellano/33ae0970f3d193d3c7b1897f72626187&title=Messaggio di ritorno alla richiesta
 ### SOAP Response
 ---
+
+### SOAP Tutorial
+
+
+[LEARN WEB SERVICES|Free, public SOAP web services example](http://www.learnwebservices.com/)
+
+---
 ### Cos'è REST?
 
 **REST** (REpresentational State Transfer) definendolo come uno stile architetturale per la progettazione e la creazione di servizi Web, in altre parole REST rappresenta un insieme di regole che definiscono come scambiare risorse in un sistema distribuito
@@ -105,6 +112,7 @@ Esso semplicemente vuol dire che il server ha una risorsa e il client può chied
 <br>
 Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record. 
 @snapend
+
 
 
 ---
