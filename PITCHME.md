@@ -111,7 +111,7 @@ Esso semplicemente vuol dire che il server ha una risorsa e il client può chied
 <br>
 Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record del database.  
 
-![width=700](assets/img/REST_sequence_diagram.PNG)
+![width=750](assets/img/REST_sequence_diagram.PNG)
 
 
 @snapend
