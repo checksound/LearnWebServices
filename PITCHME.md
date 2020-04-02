@@ -69,13 +69,15 @@ XML è un linguaggio di markup che permette di descrivere delle strutture dati c
 @snap[north-west]
 ### SOAP Message
 ![width=400](assets/img/SOAPSimpleO1.png)
+<br>
+Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 @snapend
 
 ---?gist=MassimoCappellano/4803465f006725a9044a78f0e7a066b7&title=Servizio che chiede i valori di un'azione
 ### SOAP Request
 
 ---?gist=MassimoCappellano/33ae0970f3d193d3c7b1897f72626187&title=Messaggio di ritorno alla richiesta
-#### SOAP Response
+### SOAP Response
 ---
 @snap[north-west text-07]
 
