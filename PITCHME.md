@@ -79,21 +79,10 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 ---?gist=MassimoCappellano/33ae0970f3d193d3c7b1897f72626187&title=Messaggio di ritorno alla richiesta
 ### SOAP Response
 ---
+### Cos'è REST
 
-@snap[west text-06]
-Esempio Web Service SOAP:<br>
+REST (REpresentational State Transfer) definendolo come uno stile architetturale per la progettazione e la creazione di servizi Web, in altre parole REST rappresenta un insieme di regole che definiscono come scambiare risorse in un sistema distribuito
 
-https://geoservices.tamu.edu/Services/Geocode/WebService/v04_01/Simple/SOAP/
-<br>
-<br>
-**API URL:**<br>
-https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx
-<br>
-<br>
-**WSDL:**<br>
-https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderService_V04_01.asmx?WSDL
-
-@snapend
 ---
 
 
