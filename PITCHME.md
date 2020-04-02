@@ -58,12 +58,12 @@ modo preciso l'interfaccia esposta dai Web Services.
 * Port -- a single endpoint defined as a combination of a binding and a network address.
 * Service -- a collection of related endpoints.
 @ulend
-  
-  
+<br>
+<br>    
 Tutte queste parti specificano in modo preciso il 'contratto' tra client e il web service.  
-  
-Abbiamo già detto che il WSDL è espresso in linguaggio XML. 
-   
+<br>
+Abbiamo già detto che il WSDL è espresso in linguaggio XML.  
+<br>
 XML è un linguaggio di markup che permette di descrivere delle strutture dati come nel caso del WSDL, in cui descrive il tipo dei dati dei metodi o anche rappresentare dati veri e propri, come nel caso dei massaggi scambiati tra client e server.  
 @snapend
 
