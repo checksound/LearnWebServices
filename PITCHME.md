@@ -129,6 +129,9 @@ Per esempio, se la risorsa è il post di un blog dentro un database, allora il s
 
 ---
 
+### Lezione
+
+https://checksound.gitbook.io/tecnologie5/web-services
 
 
 
