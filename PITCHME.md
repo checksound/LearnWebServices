@@ -92,6 +92,24 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 
 ---
 @snap[north-west text-06]
+### Demistifichiamo REST
+
+La sigla REST, Representional State Transfer, sembra alquanto criptica.  
+Esso semplicemente vuol dire che il server ha una risorsa e il client può chiedere una rappresentazione (descrizione) dello 'stato' della risorsa. 
+<br>
+Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record del database.  
+
+![width=750](assets/img/REST_sequence_diagram.PNG)
+
+@snapend
+---
+@snap[north-west text-06]
+
+
+
+@snapend
+---
+@snap[north-west text-06]
 ### Regole per servizi REST (detti RESTFul)
 @ul[](false)
 - **Client-server**: la comunicazione tra le applicazioni segue il paradigma c/s. Questo disaccoppiamento garantisce che, purché sia stata concordata un'interfaccia, lo sviluppo di client e server può essere eseguito in modo indipendente; 
@@ -103,30 +121,13 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 @ulend
 @snapend
 ---
-@snap[north-west text-06]
-### Demistifichiamo REST
 
-La sigla REST, Representional State Transfer, sembra alquanto criptica.  
-Esso semplicemente vuol dire che il server ha una risorsa e il client può chiedere una rappresentazione (descrizione) dello 'stato' della risorsa. 
-<br>
-Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record del database.  
+### REST Tutorial
 
-![width=750](assets/img/REST_sequence_diagram.PNG)
-
-
-@snapend
-
+[Go Rest | Online REST API for Testing and Prototyping](https://gorest.co.in/)
 
 
 ---
-
-
-
-
-
-
-
-
 
 
 
