@@ -116,7 +116,6 @@ Il formato JSON (Javascript Object Notation) è spesso utilizzato per rappresent
 }
 ```
 Quando il client riceve la rappresentazione, per esempio cambiare il titolo, e inviare la rappresentazione modificata al server. Il server allora modificherà la sua risorsa interna con i dati della rappresentazione modificata; per esempio modificare il record del database con il nuovo titolo.  
-<br>
 Quindi "REpresentional State Transfer" semplicemente significa che stiamo trasferendo queste stati di rappresentazione tra il client e il server.
 
 @snapend
