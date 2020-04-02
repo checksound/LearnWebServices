@@ -71,14 +71,15 @@ XML è un linguaggio di markup che permette di descrivere delle strutture dati c
 ![](assets/img/SOAPSimpleO1.png)
 @snapend
 
----
+---?gist=MassimoCappellano/4803465f006725a9044a78f0e7a066b7
 
+---
 @snap[north-west text-07]
 
 ### SOAP Request
 
 Servizio che chiede i valori di un'azione in questa richiesta `MOT`.
-```
+```xml
 POST /StockQuote HTTP/1.1
 Host: www.stockquoteserver.com
 Content-Type: text/xml;
@@ -88,7 +89,7 @@ SOAPAction: "Some-URI"
 
 <SOAP-ENV:Envelope
  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" 
- SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/> 
+ SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"> 
    <SOAP-ENV:Body>
     <m:GetLastTradePrice
      xmlns:m="Some-URI">
