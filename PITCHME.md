@@ -88,7 +88,7 @@ SOAPAction: "Some-URI"
 
 <SOAP-ENV:Envelope
  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" 
- SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"> 
+ SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"/> 
    <SOAP-ENV:Body>
     <m:GetLastTradePrice
      xmlns:m="Some-URI">
@@ -99,7 +99,8 @@ SOAPAction: "Some-URI"
 ```
 @snapend
 ---
-@snap[north-west]
+@snap[north-west text-07]
+
 ### SOAP Response
 
 Messaggio di ritorno alla richiesta del client con in valore dell'azione.
