@@ -85,6 +85,7 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 
 ---
 @snap[north-west text-06]
+### Regole per servizi REST (detti RESTFull)
 @ul[](false)
 - **Client-server**: la comunicazione tra le applicazioni segue il paradigma c/s. Questo disaccoppiamento garantisce che, purché sia stata concordata un'interfaccia, lo sviluppo di client e server può essere eseguito in modo indipendente; 
 - **Stateless**: Nessuno stato client è memorizzato sul server. Tutte le informazioni necessarie per eseguire le operazioni sono contenute nelle richieste;
