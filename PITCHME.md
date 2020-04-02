@@ -105,8 +105,8 @@ Per esempio, se la risorsa è il post di un blog dentro un database, allora il s
 ---
 @snap[north-west text-06]
 Questo significa che il client non si cura dell'implementazione interna della risorsa sul server. Il server potrebbe conservare il post del blog in un database Oracle, un file di testo, o potrebbe essere
-generato da una chimata di procedura; quanto non interessa al client. Tutto ciò di interessa è la 
-rappresentazione che riceve dal server.
+generato da una chimata di procedura; questo non interessa al client. Tutto ciò di interessa è la 
+rappresentazione che riceve dal server.  
 Il formato JSON (Javascript Object Notation) è spesso utilizzato per rappresentare la risorse in REST. E' una semplice notazione coppia nome-valore. Per esempio, la rappresentazione del post del blog nello Step 4, precedente, potrebbe essere in formato JSON:
 
 ```javascript
@@ -116,7 +116,7 @@ Il formato JSON (Javascript Object Notation) è spesso utilizzato per rappresent
 }
 ```
 
-
+ 
 
 
 @snapend
