@@ -68,7 +68,7 @@ XML è un linguaggio di markup che permette di descrivere delle strutture dati c
 ---
 @snap[north-west]
 ### SOAP Message
-![](assets/img/SOAPSimple01.PNG)
+![](assets/img/SOAPSimpleO1.png)
 @snapend
 
 ---
