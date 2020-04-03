@@ -103,7 +103,7 @@ Per esempio, se la risorsa è il post di un blog dentro un database, allora il s
 
 @snapend
 ---
-@snap[north-west text-07]
+@snap[north-west text-06]
 Questo significa che il client non si cura dell'implementazione interna della risorsa sul server. Il server potrebbe conservare il post del blog in un database Oracle, un file di testo, o potrebbe essere
 generato da una chimata di procedura; questo non interessa al client. Tutto ciò di interessa è la 
 rappresentazione che riceve dal server.  
@@ -115,12 +115,12 @@ Il formato JSON (Javascript Object Notation) è spesso utilizzato per rappresent
     "content": "George Lucas accidentally revealed that..." 
 }
 ```
-Quando il client riceve la rappresentazione, per esempio cambiare il titolo, e inviare la rappresentazione modificata al server. Il server allora modificherà la sua risorsa interna con i dati della rappresentazione modificata; per esempio modificare il record del database con il nuovo titolo.  
+Quando il client riceve la rappresentazione può, per esempio, cambiare il titolo, e inviare la rappresentazione modificata al server. Il server allora modificherà la sua risorsa interna con i dati della rappresentazione modificata; per esempio modificare il record del database con il nuovo titolo.  
 Quindi "REpresentional State Transfer" semplicemente significa che stiamo trasferendo queste stati di rappresentazione tra il client e il server.
 
 @snapend
 ---
-@snap[north-west text-07]
+@snap[north-west text-06]
 ### Regole per servizi REST (detti RESTFul)
 @ul[](false)
 - **Client-server**: la comunicazione tra le applicazioni segue il paradigma c/s. Questo disaccoppiamento garantisce che, purché sia stata concordata un'interfaccia, lo sviluppo di client e server può essere eseguito in modo indipendente; 
