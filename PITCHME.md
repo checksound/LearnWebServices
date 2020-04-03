@@ -94,7 +94,7 @@ Le parti di cui è composto un messaggio SOAP stabilito dallo standard.
 @snap[north-west text-06]
 ### Demistifichiamo REST
 
-La sigla REST, Representional State Transfer, sembra alquanto criptica.  
+La sigla REST, **RE**presentional **S**tate **T**ransfer, sembra alquanto criptica.  
 Esso semplicemente vuol dire che il server ha una risorsa e il client può chiedere una rappresentazione (descrizione) dello 'stato' della risorsa. 
 <br>
 Per esempio, se la risorsa è il post di un blog dentro un database, allora il suo 'respresentional state' potrebbe essere la lista dei valori del record del database.  
@@ -108,7 +108,7 @@ Questo significa che il client non si cura dell'implementazione interna della ri
 generato da una chimata di procedura; questo non interessa al client. Tutto ciò di interessa è la 
 rappresentazione che riceve dal server.  
 <br>
-Il formato JSON (Javascript Object Notation) è spesso utilizzato per rappresentare la risorse in REST. E' una semplice notazione coppia nome-valore. Per esempio, la rappresentazione del post del blog nello Step 4, precedente, potrebbe essere in formato JSON:
+Il formato **JSON** (Javascript Object Notation) è spesso utilizzato per rappresentare la risorse in REST. E' una semplice notazione coppia nome-valore. Per esempio, la rappresentazione del post del blog nello Step 4, precedente, potrebbe essere in formato JSON:
 
 ```javascript
 { 
@@ -118,7 +118,7 @@ Il formato JSON (Javascript Object Notation) è spesso utilizzato per rappresent
 ```
 Quando il client riceve la rappresentazione può, per esempio, cambiare il titolo, e inviare la rappresentazione modificata al server. Il server allora modificherà la sua risorsa interna con i dati della rappresentazione modificata; per esempio modificare il record del database con il nuovo titolo.  
 <br>
-Quindi "REpresentional State Transfer" semplicemente significa che stiamo trasferendo queste stati di rappresentazione tra il client e il server.
+Quindi "**RE**presentional **S**tate **T**ransfer" semplicemente significa che stiamo trasferendo queste stati di rappresentazione tra il client e il server.
 
 @snapend
 ---
