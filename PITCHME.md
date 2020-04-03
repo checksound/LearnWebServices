@@ -136,8 +136,9 @@ Quindi "**RE**presentional **S**tate **T**ransfer" semplicemente significa che s
 ---
 @snap[north-west text-06]
 ### Interfaccia uniforme
-Ciò che veramente caratterizza REST rispetto ad altri stili archetitturali è l'interfaccia uniforme.    
-Caratteristiche principali:
+Ciò che veramente caratterizza REST rispetto ad altri stili archetitturali è l'interfaccia uniforme.  
+<br>  
+Caratteristiche principali delle appicazioni REST:
 @ul[](false)
 - Le api sono progettate in base a risorse, che possono essere costituite da qualsiasi tipologia di oggetto, servizio o dati accessibile dal client; 
 - Una risorsa ha un identificatore, costituito da un URI che identifica in modo univoco la risorsa; 
